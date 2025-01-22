@@ -13,7 +13,7 @@
     "commander": "8.3.0",
     "debug": "^4.3.4",
     "diff": "^7.0.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "graceful-fs": "4.2.10",
     "https-proxy-agent": "7.0.6",
     "jpeg-js": "0.4.4",
